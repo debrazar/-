@@ -5,7 +5,7 @@ void printSubstring(char str[], int n) {
     }
 }
 int main() {
-    char str[] = "Мене звати Остап";
+    char str[] = "Мене звати Адам";
     int numChars = 7;
     printf("Рядок: %s\n", str);
     printf("Кількість символів для виводу: %d\n", numChars);
